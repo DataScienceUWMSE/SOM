@@ -15,7 +15,7 @@ This repository contains code templates for self-organizing mapping (SOM), a typ
 
 ## How To Install Repo
 1. In command window:
-   - git clone https://github.com/feliciatd/MSESOM.git
+   - git clone https://github.com/DataScienceUWMSE/SOM.git
    - Another option is to fork this github to your personal github and clone from there.
 2. In command window:
    - cd MSESOM
